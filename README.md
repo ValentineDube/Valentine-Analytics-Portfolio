@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Valentine Dube  
-### Data Analyst | Financial Analytics | Business Intelligence | SQL | Python | Tableau|Snowflake
+### Data Analyst | Financial Analytics | Business Intelligence | SQL | Python |Machine Learning| Tableau|Snowflake
 
 Welcome to my **Data & Financial Analytics Portfolio**.  
-This repository showcases projects I’ve completed using **SQL, Python, Tableau, and financial modelling**, focusing on insights, data cleaning, visualization, and analytical storytelling.
+This repository showcases projects I’ve completed using **SQL, Python, Tableau, PowerBi, Machine Learning, R**, data cleaning, visualization, and analytical storytelling focusing on insights.
 
 ---
 
 ## 📊 Featured Projects
+###1. Nike Reviews Analytics 
+-Tools: R studio and R libraries 
+- Nike is positioning itsself among another big brands like Adidas
 
 ### **1. Pfizer Global Vaccine Performance Analysis**
 - Tools: Python, SQL, Tableau  
