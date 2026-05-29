@@ -29,14 +29,7 @@ I embrace that data fully. Every dataset is a new learning opportunity, and I sh
 </p>
 ---
 
-## 🌱 Currently Learning
 
-- Advanced Machine Learning techniques (model tuning, feature engineering)
-- Statistical modelling with R
-- Azure Data Engineering fundamentals
-- Building end-to-end data pipelines
-
----
 
 ## 📌 What I'm Looking For
 
